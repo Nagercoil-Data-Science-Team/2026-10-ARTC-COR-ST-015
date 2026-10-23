@@ -1,1 +1,3 @@
-# 2026-10-ARTC-COR-ST-015
+Title: An Advanced TCN–BiLSTM Multi-Head Attention Framework with Trust-Aware HHO Optimization for Secure and Energy-Efficient Wireless Sensor Networks
+
+Domain: TCN–BiLSTM Multi-Head Attention Framework,Trust-Aware HHO Optimization, Wireless Sensor Networks
